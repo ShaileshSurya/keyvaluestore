@@ -1,4 +1,5 @@
-# keyvaluestore
+# keyvaluestore [![Build Status](https://travis-ci.com/ShaileshSurya/keyvaluestore.svg?branch=main)](https://travis-ci.com/ShaileshSurya/keyvaluestore) [![codecov](https://codecov.io/gh/ShaileshSurya/keyvaluestore/branch/main/graph/badge.svg?token=OD864R1WA6)](https://codecov.io/gh/ShaileshSurya/keyvaluestore)
+
 
 This is a implementation of Key value store. 
 
